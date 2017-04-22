@@ -15,7 +15,7 @@ zhihu_answer表：
 ![](http://images2015.cnblogs.com/blog/1129740/201704/1129740-20170422154648181-500253111.png)
 
 
-3.**数据**：
+3.**数据**：存放在百度网盘，有需要的可以拿取 链接：[http://pan.baidu.com/s/1qYQ6rk4](http://pan.baidu.com/s/1qYQ6rk4) 密码：ociz
 
 zhihu_question表结果：
 
